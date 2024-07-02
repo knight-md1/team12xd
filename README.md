@@ -1,6 +1,6 @@
 <a><img src='https://telegra.ph/file/915d08675cb62bf1eb1ca.jpg'/></a>
-<a><img src='https://telegra.ph/file/915d08675cb62bf1eb1ca.jpg'/></a>
-<img alt="WATSON-MD" height="300" src="https://telegra.ph/file/915d08675cb62bf1eb1ca.jpg">
+<a><img src=''/></a>
+<img alt="WATSON-MD" height="300" src="">
   
 <h1 align="center"> WATSON-MD    </h1> 
 <p align="center">l introduce <b>WATSON-MD</b>, a powerful simple to use interactive bot with many features.It is a multidevice bot created and designed by WATSON-MDTech to make your whatsapp more exciting and entertaining.Please support us and we will bring more amazing features  </p>
